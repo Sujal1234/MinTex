@@ -137,10 +137,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="editor.cpp" />
+    <ClCompile Include="line.cpp" />
     <ClCompile Include="mintex.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="editor.h" />
+    <ClInclude Include="SDLhelper.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

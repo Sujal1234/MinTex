@@ -21,9 +21,15 @@
     <ClCompile Include="editor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="line.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="editor.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SDLhelper.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
